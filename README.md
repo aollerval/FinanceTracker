@@ -1,2 +1,2 @@
 # FinanceTracker
-Finance app idea.  Will be uspdating in the features later.
+Finance app idea.  Will be updating in the features later.
